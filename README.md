@@ -1,3 +1,3 @@
-# Sample website template for study purpose 
+Sample website template for study purpose 
 
 
