@@ -9,7 +9,7 @@ It's using as a sample website and it's might be helpful to someone who needs a 
 ## Feature
 
 - Sample website template
-- Education purpose (for AWS LoadBalancer)
+- Education purpose
 - License not required
 
 ----
